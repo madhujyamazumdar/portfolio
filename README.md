@@ -2,6 +2,8 @@
 
 Personal portfolio showcasing responsive, modern, and SEO-friendly web design projects for businesses, restaurants, real estate agencies, and e-commerce brands.
 
+🌐 **Live Portfolio:** [https://madhujyamazumdar.github.io/portfolio/](https://madhujyamazumdar.github.io/portfolio/)
+
 ---
 
 ## 🌟 Featured Projects
